@@ -1,0 +1,36 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "home": {
+    "title": "Welcome to Brand Ambassador",
+    "description": "We are a leading marketing agency based in Augsburg, Germany, dedicated to elevating your brand."
+  },
+  "services": {
+    "title": "Our Services",
+    "item1": "Territory Management",
+    "item2": "Market Research and Analysis",
+    "item3": "Custom Sales Strategies",
+    "item4": "Sales Performance Analytics",
+    "item5": "Lead Generation"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Welcome to Brand Ambassador, your gateway to the dynamic realm of outside sales. As devoted outside sales agents, we channel your products and services directly to your target market, cultivating personal connections, and propelling your business forward. With an unwavering enthusiasm for in-person client interactions and an unrelenting commitment to delivering exceptional outcomes, we stand ready to elevate your sales performance to unprecedented heights.\n\nIn the competitive world of outside sales, we leverage our extensive industry knowledge to provide tailored solutions that resonate with your audience, enabling you to stay one step ahead of the market's ever-changing demands. Our expertise in forging lasting client relationships, coupled with a keen understanding of emerging market trends, positions us as your strategic partner in achieving sales success.",
+    "partners": "Partners",
+    "visit_website": "Visit Website"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Brand Ambassador",
+    "address": "Augsburg, Germany",
+    "email": "office@brand-ambassador.net"
+  },
+  "footer": {
+    "rights": "© 2025 Brand Ambassador. All rights reserved."
+  }
+}

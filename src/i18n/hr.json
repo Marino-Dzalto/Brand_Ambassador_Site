@@ -1,0 +1,36 @@
+{
+  "navbar": {
+    "home": "Početna",
+    "services": "Usluge",
+    "about": "O Nama",
+    "contact": "Kontakt",
+    "language": "Jezik"
+  },
+  "home": {
+    "title": "Dobrodošli u Brand Ambassador",
+    "description": "Mi smo vodeća marketinška agencija sa sjedištem u Augsburgu, Njemačka, posvećena unapređenju vašeg brenda."
+  },
+  "services": {
+    "title": "Naše Usluge",
+    "item1": "Upravljanje teritorijem",
+    "item2": "Istraživanje tržišta i analiza",
+    "item3": "Prilagođene prodajne strategije",
+    "item4": "Analitika prodajnih performansi",
+    "item5": "Generiranje potencijalnih klijenata"
+  },
+  "about": {
+    "title": "O Nama",
+    "description": "Dobrodošli u Brand Ambassador, vaš ulaz u dinamični svijet vanjske prodaje. Kao predani vanjski prodajni agenti, usmjeravamo vaše proizvode i usluge izravno na vaše ciljano tržište, njegujući osobne veze i pokrećući vaše poslovanje naprijed. S nepokolebljivim entuzijazmom za osobne interakcije s klijentima i neumornom predanošću postizanju izvanrednih rezultata, spremni smo podići vašu prodajnu uspješnost na neviđene visine.\n\nU konkurentnom svijetu vanjske prodaje, koristimo naše opsežno znanje u industriji kako bismo pružili prilagođena rješenja koja odjekuju s vašom publikom, omogućujući vam da ostanete korak ispred uvijek promjenjivih zahtjeva tržišta. Naša stručnost u izgradnji trajnih odnosa s klijentima, zajedno s oštrim razumijevanjem novih tržišnih trendova, pozicionira nas kao vašeg strateškog partnera u postizanju prodajnog uspjeha.",
+    "partners": "Brand Ambassador Partneri",
+    "visit_website": "Posjetite web stranicu"
+  },
+  "contact": {
+    "title": "Kontaktirajte Nas",
+      "name": "Brand Ambassador",
+      "address": "Augsburg, Germany",
+      "email": "office@brand-ambassador.net"
+    },
+  "footer": {
+    "rights": "© 2025 Brand Ambassador. Sva prava pridržana."
+  }
+}

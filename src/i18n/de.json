@@ -1,0 +1,36 @@
+{
+  "navbar": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "about": "Über Uns",
+    "contact": "Kontakt",
+    "language": "Sprache"
+  },
+  "home": {
+    "title": "Willkommen bei Brand Ambassador",
+    "description": "Wir sind eine führende Marketingagentur mit Sitz in Augsburg, Deutschland, die sich der Stärkung Ihrer Marke widmet."
+  },
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "item1": "Gebietsmanagement",
+    "item2": "Marktforschung und Analyse",
+    "item3": "Maßgeschneiderte Verkaufsstrategien",
+    "item4": "Verkaufsleistungsanalytik",
+    "item5": "Lead-Generierung"
+  },
+  "about": {
+    "title": "Über Uns",
+    "description": "Willkommen bei Brand Ambassador, Ihrem Tor zur dynamischen Welt des Außendienstverkaufs. Als engagierte Außendienstmitarbeiter leiten wir Ihre Produkte und Dienstleistungen direkt an Ihren Zielmarkt weiter, bauen persönliche Verbindungen auf und treiben Ihr Unternehmen voran. Mit unerschütterlicher Begeisterung für persönliche Kundeninteraktionen und einem unermüdlichen Engagement für herausragende Ergebnisse sind wir bereit, Ihre Verkaufsleistung auf einzigartige Höhen zu heben.\n\nIn der wettbewerbsintensiven Welt des Außendienstverkaufs nutzen wir unser umfassendes Branchenwissen, um maßgeschneiderte Lösungen anzubieten, die bei Ihrem Publikum Anklang finden und es Ihnen ermöglichen, den sich ständig ändernden Anforderungen des Marktes einen Schritt voraus zu sein. Unsere Expertise im Auf Bau dauerhafter Kundenbeziehungen, gepaart mit einem tiefen Verständnis für aufkommende Markttrends, positioniert uns als Ihren strategischen Partner für Verkaufserfolg.",
+    "partners": "Brand Ambassador Partner",
+    "visit_website": "Website besuchen"
+  },
+  "contact": {
+    "title": "Kontaktieren Sie Uns",
+      "name": "Brand Ambassador",
+      "address": "Augsburg, Germany",
+      "email": "office@brand-ambassador.net"
+    },
+  "footer": {
+    "rights": "© 2025 Brand Ambassador. Alle Rechte vorbehalten."
+  }
+}
